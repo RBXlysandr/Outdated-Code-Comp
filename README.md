@@ -1,4 +1,4 @@
-# Code-Comp
+# Outdated-Code-Comp
 ### A repository for a compilation of some of my codeworks
 
 Some of the code I have is in projects I cannot access as they were temporary positions in other games (or under a mutual privacy agreement / NDA). However, here I was able to compile a bunch of things I made that I still have access too. 
